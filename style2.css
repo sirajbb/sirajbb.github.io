@@ -1,0 +1,36 @@
+.headingsection{
+    background-color: antiquewhite;
+    height: 200px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid ;
+
+}
+.heading1{
+    margin-left: 100px;
+    margin-top: 50px;
+    background-color: chocolate;
+
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.para{
+    text-decoration: overline;
+    background-color: coral;
+    font-size: 50px;
+}
+a:link{
+    color:red;
+}
+a:visited{
+    color: aqua;
+}
+a:hover{
+    color:green;
+    text-decoration: none;
+}
+a:active{
+    color: black;
+}

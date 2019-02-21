@@ -1,0 +1,20 @@
+.divstyle1{
+    background-color: darkmagenta;
+    width: 300px;
+    height: 300px;
+    position: relative;
+}
+.divstyle2{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    top: 100px;
+    left: 200px;
+    position: relative;
+}
+.divstyle3{
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: relative;
+}
